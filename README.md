@@ -1,5 +1,5 @@
-# Better-Pantheons
-Better Pantheons is a comprehensive religion overhaul with several basic design goals.
+# Better-Pantheons-Plus
+Better Pantheons Plus is a comprehensive religion overhaul with several basic design goals.
 
 Firstly, the effects of Pantheons have been extended, more opportunities for a given example are available,
 and pantheon specific structures have been given to every example.
