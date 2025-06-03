@@ -645,7 +645,7 @@
      "uniques": [
                 "[+1 Happiness] from every [Agnostic]",
                 "[+50]% [Happiness] from every [Burial]",
-                "[+50 Faith] whenever a Great Person is expended",
+"Gain [+50] [Faith] <upon expending a [Great Prophet] unit> <(modified by game speed)>",
 //                "Requires a [Basic Religion] in at least [6] cities",
 //                "Requires a [Enhanced Religion] in at least [3] cities", 
                 "Unbuildable",
